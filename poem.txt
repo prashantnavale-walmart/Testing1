@@ -1,0 +1,6 @@
+The raimbow
+red
+blue
+green
+white
+yellow
